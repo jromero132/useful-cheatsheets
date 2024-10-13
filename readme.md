@@ -5,8 +5,6 @@ Welcome to my *Useful Cheat Sheets* repository! This project aims to provide my 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Useful Cheat Sheets](#useful-cheat-sheets-1)
-    - [Markdown](#markdown)
 - [Contributing](#contributing)
 - [License](#license)
 
